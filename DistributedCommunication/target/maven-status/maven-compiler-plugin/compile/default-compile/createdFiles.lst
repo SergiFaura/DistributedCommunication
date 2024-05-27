@@ -1,0 +1,4 @@
+com\mycompany\distributedcommunication\Person.class
+com\mycompany\distributedcommunication\PersonController.class
+com\mycompany\distributedcommunication\DistributedCommunication.class
+com\mycompany\distributedcommunication\PersonRepository.class
